@@ -5,6 +5,8 @@
 using namespace std;
 
 int main(){
+    FAST_IO
+    
     int N, n1;
     cin >> N;
     unordered_map<int, int> freq;
